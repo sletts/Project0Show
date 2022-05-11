@@ -1,0 +1,27 @@
+[
+  {
+    "UserName": "kyle",
+    "Password": "no",
+    "IsAdmin": false
+  },
+  {
+    "UserName": "bobbybob",
+    "Password": "no",
+    "IsAdmin": false
+  },
+  {
+    "UserName": "user3",
+    "Password": "kevin",
+    "IsAdmin": false
+  },
+  {
+    "UserName": "user4",
+    "Password": "bob",
+    "IsAdmin": false
+  },
+  {
+    "UserName": "bob",
+    "Password": "no",
+    "IsAdmin": false
+  }
+]

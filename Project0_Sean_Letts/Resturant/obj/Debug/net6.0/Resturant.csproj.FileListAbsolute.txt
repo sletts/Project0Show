@@ -1,0 +1,24 @@
+C:\Users\Owner\Desktop\Revature\Visual Studio\Project0_Sean_Letts\Resturant\obj\Debug\net6.0\Resturant.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Revature\Visual Studio\Project0_Sean_Letts\Resturant\obj\Debug\net6.0\Resturant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Revature\Visual Studio\Project0_Sean_Letts\Resturant\obj\Debug\net6.0\Resturant.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Revature\Visual Studio\Project0_Sean_Letts\Resturant\obj\Debug\net6.0\Resturant.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Revature\Visual Studio\Project0_Sean_Letts\Resturant\obj\Debug\net6.0\Resturant.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Revature\Visual Studio\Project0_Sean_Letts\Resturant\bin\Debug\net6.0\Resturant.deps.json
+C:\Users\Owner\Desktop\Revature\Visual Studio\Project0_Sean_Letts\Resturant\bin\Debug\net6.0\Resturant.dll
+C:\Users\Owner\Desktop\Revature\Visual Studio\Project0_Sean_Letts\Resturant\bin\Debug\net6.0\Resturant.pdb
+C:\Users\Owner\Desktop\Revature\Visual Studio\Project0_Sean_Letts\Resturant\obj\Debug\net6.0\Resturant.dll
+C:\Users\Owner\Desktop\Revature\Visual Studio\Project0_Sean_Letts\Resturant\obj\Debug\net6.0\refint\Resturant.dll
+C:\Users\Owner\Desktop\Revature\Visual Studio\Project0_Sean_Letts\Resturant\obj\Debug\net6.0\Resturant.pdb
+C:\Users\Owner\Desktop\Revature\Visual Studio\Project0_Sean_Letts\Resturant\obj\Debug\net6.0\ref\Resturant.dll
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project0_Sean_Letts\Resturant\bin\Debug\net6.0\Resturant.deps.json
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project0_Sean_Letts\Resturant\bin\Debug\net6.0\Resturant.dll
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project0_Sean_Letts\Resturant\bin\Debug\net6.0\Resturant.pdb
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project0_Sean_Letts\Resturant\obj\Debug\net6.0\Resturant.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project0_Sean_Letts\Resturant\obj\Debug\net6.0\Resturant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project0_Sean_Letts\Resturant\obj\Debug\net6.0\Resturant.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project0_Sean_Letts\Resturant\obj\Debug\net6.0\Resturant.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project0_Sean_Letts\Resturant\obj\Debug\net6.0\Resturant.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project0_Sean_Letts\Resturant\obj\Debug\net6.0\Resturant.dll
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project0_Sean_Letts\Resturant\obj\Debug\net6.0\refint\Resturant.dll
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project0_Sean_Letts\Resturant\obj\Debug\net6.0\Resturant.pdb
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project0_Sean_Letts\Resturant\obj\Debug\net6.0\ref\Resturant.dll

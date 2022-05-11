@@ -1,0 +1,4 @@
+2022-05-02 13:04:22.173 -07:00 [INF] Displaying Main Menu to the user
+2022-05-02 13:04:26.370 -07:00 [INF] Displaying Login Menu to the user
+2022-05-02 13:04:27.491 -07:00 [INF] Validates user
+2022-05-02 13:04:39.482 -07:00 [INF] Displaying Admin Menu to the user

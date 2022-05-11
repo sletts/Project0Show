@@ -1,0 +1,27 @@
+C:\Users\Owner\Desktop\Revature\Visual Studio\Project0_Sean_Letts\User\obj\Debug\net6.0\User.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Revature\Visual Studio\Project0_Sean_Letts\User\obj\Debug\net6.0\User.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Revature\Visual Studio\Project0_Sean_Letts\User\obj\Debug\net6.0\User.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Revature\Visual Studio\Project0_Sean_Letts\User\obj\Debug\net6.0\User.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Revature\Visual Studio\Project0_Sean_Letts\User\obj\Debug\net6.0\User.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Revature\Visual Studio\Project0_Sean_Letts\User\bin\Debug\net6.0\User.deps.json
+C:\Users\Owner\Desktop\Revature\Visual Studio\Project0_Sean_Letts\User\bin\Debug\net6.0\User.dll
+C:\Users\Owner\Desktop\Revature\Visual Studio\Project0_Sean_Letts\User\bin\Debug\net6.0\User.pdb
+C:\Users\Owner\Desktop\Revature\Visual Studio\Project0_Sean_Letts\User\obj\Debug\net6.0\User.dll
+C:\Users\Owner\Desktop\Revature\Visual Studio\Project0_Sean_Letts\User\obj\Debug\net6.0\refint\User.dll
+C:\Users\Owner\Desktop\Revature\Visual Studio\Project0_Sean_Letts\User\obj\Debug\net6.0\User.pdb
+C:\Users\Owner\Desktop\Revature\Visual Studio\Project0_Sean_Letts\User\obj\Debug\net6.0\ref\User.dll
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project0_Sean_Letts\User\bin\Debug\net6.0\User.deps.json
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project0_Sean_Letts\User\bin\Debug\net6.0\User.dll
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project0_Sean_Letts\User\bin\Debug\net6.0\User.pdb
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project0_Sean_Letts\User\obj\Debug\net6.0\User.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project0_Sean_Letts\User\obj\Debug\net6.0\User.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project0_Sean_Letts\User\obj\Debug\net6.0\User.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project0_Sean_Letts\User\obj\Debug\net6.0\User.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project0_Sean_Letts\User\obj\Debug\net6.0\User.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project0_Sean_Letts\User\obj\Debug\net6.0\User.dll
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project0_Sean_Letts\User\obj\Debug\net6.0\refint\User.dll
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project0_Sean_Letts\User\obj\Debug\net6.0\User.pdb
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project0_Sean_Letts\User\obj\Debug\net6.0\ref\User.dll
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project0_Sean_Letts\User\bin\Debug\net6.0\Resturant.dll
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project0_Sean_Letts\User\bin\Debug\net6.0\Resturant.pdb
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project0_Sean_Letts\User\obj\Debug\net6.0\User.csproj.CopyComplete

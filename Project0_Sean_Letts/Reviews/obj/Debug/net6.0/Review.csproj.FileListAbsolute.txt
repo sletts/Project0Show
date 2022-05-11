@@ -1,0 +1,5 @@
+C:\Users\Owner\Desktop\Revature\Visual Studio\Project0_Sean_Letts\Reviews\obj\Debug\net6.0\Review.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Revature\Visual Studio\Project0_Sean_Letts\Reviews\obj\Debug\net6.0\Review.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Revature\Visual Studio\Project0_Sean_Letts\Reviews\obj\Debug\net6.0\Review.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Revature\Visual Studio\Project0_Sean_Letts\Reviews\obj\Debug\net6.0\Review.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Revature\Visual Studio\Project0_Sean_Letts\Reviews\obj\Debug\net6.0\Review.csproj.CoreCompileInputs.cache

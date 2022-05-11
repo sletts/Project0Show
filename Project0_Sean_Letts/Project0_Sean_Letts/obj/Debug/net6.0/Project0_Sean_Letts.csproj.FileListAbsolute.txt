@@ -1,0 +1,15 @@
+C:\Users\Owner\Desktop\Revature\Visual Studio\Project0_Sean_Letts\Project0_Sean_Letts\bin\Debug\net6.0\Project0_Sean_Letts.exe
+C:\Users\Owner\Desktop\Revature\Visual Studio\Project0_Sean_Letts\Project0_Sean_Letts\bin\Debug\net6.0\Project0_Sean_Letts.deps.json
+C:\Users\Owner\Desktop\Revature\Visual Studio\Project0_Sean_Letts\Project0_Sean_Letts\bin\Debug\net6.0\Project0_Sean_Letts.runtimeconfig.json
+C:\Users\Owner\Desktop\Revature\Visual Studio\Project0_Sean_Letts\Project0_Sean_Letts\bin\Debug\net6.0\Project0_Sean_Letts.dll
+C:\Users\Owner\Desktop\Revature\Visual Studio\Project0_Sean_Letts\Project0_Sean_Letts\bin\Debug\net6.0\Project0_Sean_Letts.pdb
+C:\Users\Owner\Desktop\Revature\Visual Studio\Project0_Sean_Letts\Project0_Sean_Letts\obj\Debug\net6.0\Project0_Sean_Letts.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Revature\Visual Studio\Project0_Sean_Letts\Project0_Sean_Letts\obj\Debug\net6.0\Project0_Sean_Letts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Revature\Visual Studio\Project0_Sean_Letts\Project0_Sean_Letts\obj\Debug\net6.0\Project0_Sean_Letts.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Revature\Visual Studio\Project0_Sean_Letts\Project0_Sean_Letts\obj\Debug\net6.0\Project0_Sean_Letts.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Revature\Visual Studio\Project0_Sean_Letts\Project0_Sean_Letts\obj\Debug\net6.0\Project0_Sean_Letts.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Revature\Visual Studio\Project0_Sean_Letts\Project0_Sean_Letts\obj\Debug\net6.0\Project0_Sean_Letts.dll
+C:\Users\Owner\Desktop\Revature\Visual Studio\Project0_Sean_Letts\Project0_Sean_Letts\obj\Debug\net6.0\refint\Project0_Sean_Letts.dll
+C:\Users\Owner\Desktop\Revature\Visual Studio\Project0_Sean_Letts\Project0_Sean_Letts\obj\Debug\net6.0\Project0_Sean_Letts.pdb
+C:\Users\Owner\Desktop\Revature\Visual Studio\Project0_Sean_Letts\Project0_Sean_Letts\obj\Debug\net6.0\Project0_Sean_Letts.genruntimeconfig.cache
+C:\Users\Owner\Desktop\Revature\Visual Studio\Project0_Sean_Letts\Project0_Sean_Letts\obj\Debug\net6.0\ref\Project0_Sean_Letts.dll

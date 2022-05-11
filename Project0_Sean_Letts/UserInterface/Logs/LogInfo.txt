@@ -1,0 +1,135 @@
+﻿2022-05-02 13:06:22.285 -07:00 [INF] Displaying Main Menu to the user
+2022-05-02 13:06:27.235 -07:00 [INF] Displaying Login Menu to the user
+2022-05-02 13:06:28.192 -07:00 [INF] Validates user
+2022-05-02 13:06:30.356 -07:00 [INF] Displaying Admin Menu to the user
+2022-05-02 13:07:40.115 -07:00 [INF] Displaying Main Menu to the user
+2022-05-02 13:07:43.702 -07:00 [INF] Displaying Login Menu to the user
+2022-05-02 13:07:44.722 -07:00 [INF] Validates user
+2022-05-02 13:07:45.867 -07:00 [INF] Displaying Admin Menu to the user
+2022-05-02 14:14:22.868 -07:00 [INF] Displaying Main Menu to the user
+2022-05-02 14:14:27.186 -07:00 [INF] Displaying Login Menu to the user
+2022-05-02 14:14:28.300 -07:00 [INF] Validates user
+2022-05-02 14:14:44.812 -07:00 [INF] Displaying Admin Menu to the user
+2022-05-02 14:17:26.539 -07:00 [INF] Displaying Directional Menu to the user
+2022-05-02 14:27:13.568 -07:00 [INF] Displaying Main Menu to the user
+2022-05-02 14:27:19.369 -07:00 [INF] Displaying Login Menu to the user
+2022-05-02 14:27:20.448 -07:00 [INF] Validates user
+2022-05-02 14:27:21.452 -07:00 [INF] Displaying Admin Menu to the user
+2022-05-02 14:27:24.307 -07:00 [INF] Displaying all users to the admin user
+2022-05-02 14:27:25.722 -07:00 [INF] Displaying Admin Menu to the user
+2022-05-02 14:27:27.150 -07:00 [INF] Displaying all users to the admin user
+2022-05-02 14:27:30.353 -07:00 [INF] Displaying Admin Menu to the user
+2022-05-02 14:27:33.798 -07:00 [INF] Searching for a user for the admin user
+2022-05-02 14:27:35.004 -07:00 [INF] Displaying Admin Menu to the user
+2022-05-02 14:27:40.405 -07:00 [INF] Displaying Directional Menu to the user
+2022-05-02 14:27:42.817 -07:00 [INF] Displaying Search Resturant Menu to the user
+2022-05-02 14:27:47.906 -07:00 [INF] Displaying Directional Menu to the user
+2022-05-02 14:28:56.437 -07:00 [INF] Adding a new review
+2022-05-02 14:28:59.206 -07:00 [INF] Displaying Directional Menu to the user
+2022-05-02 14:29:16.533 -07:00 [INF] Displaying All Reviws to the user
+2022-05-02 14:29:19.721 -07:00 [INF] Displaying Directional Menu to the user
+2022-05-02 14:29:53.851 -07:00 [INF] Adding New Resturant
+2022-05-02 14:29:57.098 -07:00 [INF] Displaying Directional Menu to the user
+2022-05-02 14:30:11.289 -07:00 [INF] Displaying All Resturants to the user
+2022-05-02 14:30:11.971 -07:00 [INF] Displaying Directional Menu to the user
+2022-05-02 14:30:16.336 -07:00 [INF] Displaying Search Resturant Menu to the user
+2022-05-02 14:30:26.662 -07:00 [INF] Searching Resturants by Name
+2022-05-02 14:30:31.724 -07:00 [INF] Displaying Search Resturant Menu to the user
+2022-05-02 14:30:40.680 -07:00 [INF] Searching Resturants by Address
+2022-05-02 14:30:41.620 -07:00 [INF] Displaying Search Resturant Menu to the user
+2022-05-02 14:30:49.812 -07:00 [INF] Searching Resturants by Zip Code
+2022-05-02 14:30:51.042 -07:00 [INF] Displaying Search Resturant Menu to the user
+2022-05-02 14:31:07.949 -07:00 [INF] Displaying Directional Menu to the user
+2022-05-02 14:31:09.779 -07:00 [INF] Displaying Main Menu to the user
+2022-05-02 14:54:58.727 -07:00 [INF] Displaying Main Menu to the user
+2022-05-02 14:55:03.712 -07:00 [INF] Displaying Login Menu to the user
+2022-05-02 14:55:04.832 -07:00 [INF] Validates user
+2022-05-02 14:55:09.667 -07:00 [INF] Displaying Admin Menu to the user
+2022-05-02 14:55:12.617 -07:00 [INF] Displaying all users to the admin user
+2022-05-02 14:55:16.603 -07:00 [INF] Displaying Admin Menu to the user
+2022-05-02 14:55:18.785 -07:00 [INF] Displaying Main Menu to the user
+2022-05-02 16:28:05.616 -07:00 [INF] Displaying Main Menu to the user
+2022-05-02 16:28:12.512 -07:00 [INF] Displaying Login Menu to the user
+2022-05-02 16:28:13.775 -07:00 [INF] Validates user
+2022-05-02 17:32:47.448 -07:00 [INF] Displaying Main Menu to the user
+2022-05-02 17:32:50.032 -07:00 [INF] Displaying Login Menu to the user
+2022-05-02 17:32:51.387 -07:00 [INF] Validates user
+2022-05-02 17:32:54.362 -07:00 [INF] Incorrect details added for login.
+2022-05-02 17:32:55.540 -07:00 [INF] Displaying Main Menu to the user
+2022-05-02 17:32:57.379 -07:00 [INF] Displaying Login Menu to the user
+2022-05-02 17:32:57.469 -07:00 [INF] Validates user
+2022-05-02 17:32:59.616 -07:00 [INF] Incorrect details added for login.
+2022-05-02 17:33:04.855 -07:00 [INF] Displaying Main Menu to the user
+2022-05-03 06:49:54.726 -07:00 [INF] Displaying Main Menu to the user
+2022-05-03 06:49:58.635 -07:00 [INF] Displaying Login Menu to the user
+2022-05-03 06:49:59.901 -07:00 [INF] Validates user
+2022-05-03 06:50:02.394 -07:00 [INF] Displaying Admin Menu to the user
+2022-05-03 06:50:05.953 -07:00 [INF] Displaying all users to the admin user
+2022-05-03 06:50:08.470 -07:00 [INF] Displaying Admin Menu to the user
+2022-05-03 06:50:11.670 -07:00 [INF] Searching for a user for the admin user
+2022-05-03 06:50:13.657 -07:00 [INF] Displaying Admin Menu to the user
+2022-05-03 06:50:21.879 -07:00 [INF] Displaying Directional Menu to the user
+2022-05-03 07:09:56.427 -07:00 [INF] Displaying All Resturants to the user
+2022-05-03 07:10:01.444 -07:00 [INF] Displaying Directional Menu to the user
+2022-05-03 07:46:39.732 -07:00 [INF] Displaying Main Menu to the user
+2022-05-03 07:51:10.109 -07:00 [INF] Displaying Main Menu to the user
+2022-05-03 07:51:13.619 -07:00 [INF] Displaying Login Menu to the user
+2022-05-03 07:51:14.976 -07:00 [INF] Validates user
+2022-05-03 07:51:21.177 -07:00 [INF] Displaying Admin Menu to the user
+2022-05-03 07:51:22.325 -07:00 [INF] Displaying all users to the admin user
+2022-05-03 07:51:23.671 -07:00 [INF] Displaying Admin Menu to the user
+2022-05-03 07:51:27.650 -07:00 [INF] Searching for a user for the admin user
+2022-05-03 07:51:30.310 -07:00 [INF] Displaying Admin Menu to the user
+2022-05-03 07:51:32.855 -07:00 [INF] Displaying Directional Menu to the user
+2022-05-03 07:52:16.671 -07:00 [INF] Displaying All Reviws to the user
+2022-05-03 07:52:22.007 -07:00 [INF] Displaying Directional Menu to the user
+2022-05-03 08:04:51.082 -07:00 [INF] Displaying All Resturants to the user
+2022-05-03 08:04:53.781 -07:00 [INF] Displaying Directional Menu to the user
+2022-05-03 08:05:12.589 -07:00 [INF] Adding a new review
+2022-05-03 08:05:24.886 -07:00 [INF] Displaying Directional Menu to the user
+2022-05-03 08:05:27.459 -07:00 [INF] Displaying All Reviws to the user
+2022-05-03 08:08:05.087 -07:00 [INF] Displaying Directional Menu to the user
+2022-05-03 08:12:19.871 -07:00 [INF] Displaying Main Menu to the user
+2022-05-03 08:12:27.190 -07:00 [INF] Displaying Main Menu to the user
+2022-05-03 08:12:30.753 -07:00 [INF] Displaying Login Menu to the user
+2022-05-03 08:12:31.852 -07:00 [INF] Validates user
+2022-05-03 08:12:35.092 -07:00 [INF] Displaying Admin Menu to the user
+2022-05-03 08:23:29.260 -07:00 [INF] Displaying Main Menu to the user
+2022-05-03 08:23:59.488 -07:00 [INF] Displaying Register Menu to the user
+2022-05-03 08:24:00.367 -07:00 [INF] Adding a new user
+2022-05-03 08:24:03.606 -07:00 [INF] Displaying Main Menu to the user
+2022-05-03 08:24:15.576 -07:00 [INF] Displaying Login Menu to the user
+2022-05-03 08:24:15.665 -07:00 [INF] Validates user
+2022-05-03 08:24:18.597 -07:00 [INF] Incorrect details added for login.
+2022-05-03 08:24:19.660 -07:00 [INF] Displaying Main Menu to the user
+2022-05-03 08:24:23.765 -07:00 [INF] Displaying Login Menu to the user
+2022-05-03 08:24:23.854 -07:00 [INF] Validates user
+2022-05-03 08:24:26.583 -07:00 [INF] Displaying Admin Menu to the user
+2022-05-03 08:24:31.616 -07:00 [INF] Searching for a user for the admin user
+2022-05-03 08:24:44.286 -07:00 [INF] Displaying Admin Menu to the user
+2022-05-03 08:24:46.677 -07:00 [INF] Searching for a user for the admin user
+2022-05-03 08:24:47.681 -07:00 [INF] Displaying Admin Menu to the user
+2022-05-03 08:24:50.692 -07:00 [INF] Displaying all users to the admin user
+2022-05-03 08:24:52.845 -07:00 [INF] Displaying Admin Menu to the user
+2022-05-03 08:25:02.387 -07:00 [INF] Displaying Directional Menu to the user
+2022-05-03 08:25:06.256 -07:00 [INF] Displaying All Resturants to the user
+2022-05-03 08:25:08.254 -07:00 [INF] Displaying Directional Menu to the user
+2022-05-03 08:25:35.087 -07:00 [INF] Adding New Resturant
+2022-05-03 08:25:38.001 -07:00 [INF] Displaying Directional Menu to the user
+2022-05-03 08:25:40.882 -07:00 [INF] Displaying All Resturants to the user
+2022-05-03 08:25:45.079 -07:00 [INF] Displaying Directional Menu to the user
+2022-05-03 08:25:55.421 -07:00 [INF] Displaying All Reviws to the user
+2022-05-03 08:26:00.461 -07:00 [INF] Displaying Directional Menu to the user
+2022-05-03 08:26:21.341 -07:00 [INF] Adding a new review
+2022-05-03 08:26:24.766 -07:00 [INF] Displaying Directional Menu to the user
+2022-05-03 08:26:28.159 -07:00 [INF] Displaying All Reviws to the user
+2022-05-03 08:26:33.810 -07:00 [INF] Displaying Directional Menu to the user
+2022-05-05 14:22:05.327 -07:00 [INF] Displaying Main Menu to the user
+2022-05-05 14:22:10.263 -07:00 [INF] Displaying Login Menu to the user
+2022-05-05 14:22:11.925 -07:00 [INF] Validates user
+2022-05-05 14:22:14.127 -07:00 [INF] Displaying Admin Menu to the user
+2022-05-05 14:22:14.967 -07:00 [INF] Displaying all users to the admin user
+2022-05-05 14:22:18.064 -07:00 [INF] Displaying Admin Menu to the user
+2022-05-05 14:22:20.278 -07:00 [INF] Displaying Directional Menu to the user
+2022-05-05 14:22:21.177 -07:00 [INF] Displaying All Resturants to the user
+2022-05-05 14:22:22.924 -07:00 [INF] Displaying Directional Menu to the user

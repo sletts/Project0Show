@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Project0_Sean_Letts/1.0.0": {
+        "runtime": {
+          "Project0_Sean_Letts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Project0_Sean_Letts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
